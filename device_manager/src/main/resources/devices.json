@@ -1,0 +1,183 @@
+[
+  {
+    "resourceid": "R265457",
+    "netbiosname": "RZWX4456",
+    "cpuclockspeed": 3.6,
+    "buildnumber": "19041",
+    "networkinterface": [
+      {
+        "macaddress": "04:D9:F5:A9:FF:40",
+        "name": "Realtek PCIe GbE Family Controller",
+        "datatransmission": 1000
+      },
+      {
+        "macaddress": "00:50:56:C0:00:01",
+        "name": "VMware Virtual Ethernet Adapter for VMnet1",
+        "datatransmission": 100
+      },
+
+      {
+        "macaddress": "00:50:56:C0:00:08",
+        "name": "VMware Virtual Ethernet Adapter for VMnet8",
+        "datatransmission": 100
+      },
+      {
+        "macaddress": "46:D9:08:44:9A:2D",
+        "name": "Tp-Link PCI-e Wireless Dual-Band - AC1300",
+        "datatransmission": 889
+      },
+      {
+        "macaddress": "4D:B9:CF:33:B4:2C",
+        "name": "VPN Client Adapter - VPN",
+        "datatransmission": 130
+      }
+
+
+    ]
+  },
+
+  {
+    "resourceid": "R963423",
+    "netbiosname": "HKLI6534",
+    "cpuclockspeed": 3.2,
+    "buildnumber": "18362",
+    "networkinterface": [
+      {
+        "macaddress": "E4:92:3F:79:73:6C",
+        "name": "Axagon PCEE-GRF Gigabit Ethernet 1",
+        "datatransmission": 1000
+      },
+
+      {
+        "macaddress": "BE:15:32:DA:E7:AD",
+        "name": "TP-Link Archer T6E",
+        "datatransmission": 701
+      },
+      {
+        "macaddress": "11:6C:F7:94:7A:CC",
+        "name": "VirtualBox Virtual adapter 1",
+        "datatransmission": 100
+      },
+      {
+        "macaddress": "2F:65:6F:27:8B:58",
+        "name": "VirtualBox Virtual adapter 2",
+        "datatransmission": 100
+      },
+      {
+        "macaddress": "31:C1:2F:6F:9A:D9",
+        "name": "VPN Munka",
+        "datatransmission": 104
+      }
+
+    ]
+  },
+
+  {
+    "resourceid": "R444932",
+    "netbiosname": "MSH7654",
+    "cpuclockspeed": 2.9,
+    "buildnumber": "18362",
+    "networkinterface": [
+      {
+        "macaddress": "F9:8A:99:74:86:22",
+        "name": "TP-Link TX401 Gigabit PCI Express Network Adapter",
+        "datatransmission": 1000
+      },
+      {
+        "macaddress": "2D:32:0C:4A:3E:AB",
+        "name": "Intel Centrio Advanced-N 6235",
+        "datatransmission": 1000
+      },
+      {
+        "macaddress": "99:42:1B:37:29:8C",
+        "name": "ASUS Wireless Adapter PCI-Express Dual Band AX1800",
+        "datatransmission": 865
+      },
+      {
+        "macaddress": "4B:44:68:E7:72:7F",
+        "name": "VPN kapcsolat 1",
+        "datatransmission": 100
+      },
+      {
+        "macaddress": "DE:6D:89:58:76:DD",
+        "name": "VPN kapcsolat 2",
+        "datatransmission": 140
+      }
+
+    ]
+  },
+  {
+    "resourceid": "R965439",
+    "netbiosname": "JUH12321",
+    "cpuclockspeed": 2.4,
+    "buildnumber": "18362",
+    "networkinterface": [
+      {
+        "macaddress": "5E:4B:CE:DD:A4:EC",
+        "name": "Realtek Chipset Gigabit PCI Express Ethernet Network",
+        "datatransmission": 1000
+      },
+
+      {
+        "macaddress": "41:A1:32:79:83:56",
+        "name": "EVOLVEO PCIe WIFI Card",
+        "datatransmission": 701
+      },
+      {
+        "macaddress": "76:47:58:5E:A8:55",
+        "name": "Virtual network",
+        "datatransmission": 100
+      },
+      {
+        "macaddress": "C5:70:C8:19:14:D9",
+        "name": "Bridged network",
+        "datatransmission": 100
+      },
+      {
+        "macaddress": "89:56:71:9B:B0:C1",
+        "name": "MAV VPN",
+        "datatransmission": 104
+      }
+
+    ]
+  },
+
+  {
+    "resourceid": "R666666",
+    "netbiosname": "JAH43120",
+    "cpuclockspeed": 2.4,
+    "buildnumber": "17763",
+    "networkinterface": [
+      {
+        "macaddress": "C8:99:B7:7F:31:7B",
+        "name": "EDUP Gigabit Ethernet PCI Express PCI-E Network Card",
+        "datatransmission": 1000
+      },
+      {
+        "macaddress": "79:A6:66:D0:5E:43",
+        "name": "TP-LINK TL-WN781ND",
+        "datatransmission": 885
+      },
+      {
+        "macaddress": "0B:F6:35:E7:F5:29",
+        "name": "Alfa AIT-AX210 WiFi6",
+        "datatransmission": 900
+      },
+      {
+        "macaddress": "C1:3D:39:E0:FC:7B",
+        "name": "Oregek otthona VPN",
+        "datatransmission": 100
+      },
+      {
+        "macaddress": "37:37:EB:8A:6F:04",
+        "name": "Ugyfel",
+        "datatransmission": 100
+      }
+
+    ]
+  }
+
+
+
+
+]
